@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title="个人信息"  description="">
+      <siteMapNode url="" title="账户资料"  description="">
+        <siteMapNode url="~/kz/ziliao.aspx" title="基本资料"  description="" />
+        <siteMapNode url="~/kz/ziaxian.aspx" title="在线"  description="" />
+    </siteMapNode>
+  <siteMapNode url="" title="收藏"  description="">
+    <siteMapNode url="" title="小说"  description="" />
+    <siteMapNode url="~/kz/yingshi.aspx" title="影视"  description="yinshi" />
+    <siteMapNode url="~/kz/yinyue.aspx" title="音乐"  description="" />
+    <siteMapNode url="" title="游戏"  description="" />
+    <siteMapNode url="" title="资料"  description="" />
+  </siteMapNode>
+      <siteMapNode url="" title="记录"  description="">
+        <siteMapNode url="" title="笔记"  description="" />
+        <siteMapNode url="" title="key"  description="" />
+      </siteMapNode>
+    </siteMapNode>
+</siteMap>
